@@ -6,6 +6,10 @@ An omittable timestamp for JSON in Go
 package main
 
 import (
+	"fmt"
+	"encoding/json"
+	"time"
+
     "github.com/noxer/jsontime"
 )
 
